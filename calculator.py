@@ -9,3 +9,11 @@ def multiply(a, b):
 
 def divide(a, b):
     return a / b
+
+a = int (input ("Number 1: "))
+b = int (input ("Number 2: "))
+
+add (a, b)
+subtract (a, b)
+multiply (a, b)
+divide (a, b)
